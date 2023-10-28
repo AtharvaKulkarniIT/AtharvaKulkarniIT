@@ -9,7 +9,7 @@
 
 - 📫 You can contact me through : **atharva9412@gmail.com**
 
-- ⚡ Fun fact: **I can be a pretty fun guy to talk to .**
+- ⚡ Fun fact: **"Oh, I'm just a coding wizard who occasionally writes code that actually works. 🧙‍♂️✨".**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaKulkarniIT&show_icons=true&locale=en&layout=compact" alt="Atharva" /></p>
 
