@@ -11,11 +11,12 @@
 
 - ⚡ Fun fact: **`git blame` Where every coding masterpiece reveals my unmistakable signature 😉💻🕵️‍♂️**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaKulkarniIT&show_icons=true&locale=en&layout=compact" alt="Atharva" /></p>
+<p><img align="cente<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AtharvaKulkarniIT&theme=react&line_height=40&hide=css"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AtharvaKulkarniIT&show_icons=true&locale=en" alt="atharva-kulkarni" /></p>
+![Atharva's github stats](https://github-readme-stats2-blush.vercel.app/api?username=AtharvaKulkarniIT&theme=react&showicons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaKulkarniIT&" alt="Atharva" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtharvaKulkarniIT&theme=react)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
